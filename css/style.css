@@ -60,4 +60,5 @@ body {
 }
 .player:hover .player-overlay {
   opacity: 1;
+  background: rgb(0, 0, 0, 0.5);
 }
